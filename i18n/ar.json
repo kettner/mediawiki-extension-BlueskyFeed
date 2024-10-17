@@ -1,0 +1,18 @@
+{
+    "magicword-blueskyfeed": {
+        "0": "blueskyfeed"
+    },
+    "blueskyfeed-desc": "تضمين موجز bsky.social باستخدام علامة <code>&lt;blueskyfeed&gt;</code>"،
+    "blueskyfeed-error-missing-handle-password": "خطأ: معرّف مفقود أو كلمة مرور التطبيق"،
+    "blueskyfeed-error-did-resolve": "خطأ: تعذر حل DID للمعرّف $1"،
+    "blueskyfeed-error-api-key": "خطأ: تعذر إنشاء مفتاح API للمعرّف $1"،
+    "blueskyfeed-error-fetch-feed": "خطأ: تعذر استرداد موجز للمعرّف $1"،
+    "blueskyfeed-error-fetch-data": "خطأ في جلب بيانات موجز"،
+    "blueskyfeed-error-invalid-feed": "خطأ: بيانات موجز غير صالحة"،
+    "blueskyfeed-label-posted-on": "تم النشر في:"،
+    "blueskyfeed-error-no-text": "لا يوجد نص متاح"،
+    "blueskyfeed-label-unknown-user": "مستخدم غير معروف"،
+    "blueskyfeed-label-unknown-date": "تاريخ غير معروف"،
+    "blueskyfeed-label-avatar-alt": "الصورة الرمزية"،
+    "blueskyfeed-label-thumbnail-alt": "صورة مصغرة"
+}

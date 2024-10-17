@@ -1,0 +1,18 @@
+{
+    "magicword-blueskyfeed": {
+        "0": "blueskyfeed"
+    },
+    "blueskyfeed-desc": "Включити канал bsky.social за допомогою тегу <code>&lt;blueskyfeed&gt;</code>",
+     "blueskyfeed-error-missing-handle-password": "Помилка: відсутній маркер або пароль програми.",
+     "blueskyfeed-error-did-resolve": "Помилка: не вдалося вирішити DID для маркера $1.",
+     "blueskyfeed-error-api-key": "Помилка: не вдалося створити ключ API для дескриптора $1.",
+     "blueskyfeed-error-fetch-feed": "Помилка: не вдалося отримати канал для дескриптора $1.",
+     "blueskyfeed-error-fetch-data": "Помилка отримання даних каналу",
+     "blueskyfeed-error-invalid-feed": "Помилка: Недійсні дані каналу",
+     "blueskyfeed-label-posted-on": "Опубліковано:",
+     "blueskyfeed-error-no-text": "Немає тексту",
+     "blueskyfeed-label-unknown-user": "Невідомий користувач",
+     "blueskyfeed-label-unknown-date": "Невідома дата",
+     "blueskyfeed-label-avatar-alt": "Аватар",
+     "blueskyfeed-label-thumbnail-alt": "Мініатюра"
+}

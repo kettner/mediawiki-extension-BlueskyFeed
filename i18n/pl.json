@@ -1,0 +1,18 @@
+{
+    "magicword-blueskyfeed": {
+        "0": "blueskyfeed"
+    },
+    "blueskyfeed-desc": "Dołącz kanał bsky.social, używając znacznika <code>&lt;blueskyfeed&gt;</code>",
+    "blueskyfeed-error-missing-handle-password": "Błąd: Brak uchwytu lub hasła aplikacji",
+    "blueskyfeed-error-did-resolve": "Błąd: Nie można rozwiązać DID dla uchwytu $1",
+    "blueskyfeed-error-api-key": "Błąd: Nie można wygenerować klucza API dla uchwytu $1",
+    "blueskyfeed-error-fetch-feed": "Błąd: Nie można pobrać kanału dla uchwytu $1",
+    "blueskyfeed-error-fetch-data": "Błąd pobierania danych kanału",
+    "blueskyfeed-error-invalid-feed": "Błąd: Nieprawidłowe dane kanału",
+    "blueskyfeed-label-posted-on": "Opublikowano on:",
+    "blueskyfeed-error-no-text": "Brak dostępnego tekstu",
+    "blueskyfeed-label-unknown-user": "Nieznany użytkownik",
+    "blueskyfeed-label-unknown-date": "Nieznana data",
+    "blueskyfeed-label-avatar-alt": "Awatar",
+    "blueskyfeed-label-thumbnail-alt": "Miniatura"
+}

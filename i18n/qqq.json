@@ -1,0 +1,15 @@
+{
+    "blueskyfeed-desc":"The descriptions of BlueskyFeed used in Extension credits.",
+    "blueskyfeed-error-missing-handle-password": "Added error message if Bluesky handle or app password are missing.",
+    "blueskyfeed-error-did-resolve": "Added error message if DID could not be resoved.",
+    "blueskyfeed-error-api-key": "Added error message if API key could not be created for the specified Bluesky handle.",
+    "blueskyfeed-error-fetch-feed": "Added error message if the feed could not be retrieved for the specified Bluesky handle.",
+    "blueskyfeed-error-fetch-data": "Added error message if the bluesky feed could not be fetched.",
+    "blueskyfeed-error-invalid-feed": "Added error message if the feed data is invalid",
+    "blueskyfeed-label-posted-on": "Additional text to indicate before the date stamp to indicate when the skeet was posted.",
+    "blueskyfeed-error-no-text": "Added error message when no text is available for the handle.",
+    "blueskyfeed-label-unknown-user": "Added message when the posted skeet is done so by an unknown user.",
+    "blueskyfeed-label-unknown-date": "Added message if the date of the skeet is not known.",
+    "blueskyfeed-label-avatar-alt": "The digital representation of an individual who posts on bluesky a skeet.",
+    "blueskyfeed-label-thumbnail-alt": "A small, clickable image or preview that represents a larger piece of content."
+}

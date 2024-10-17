@@ -1,0 +1,18 @@
+{
+    "magicword-blueskyfeed": {
+        "0": "blueskyfeed"
+    },
+    "blueskyfeed-desc": "Voegt een bsky.social feed toe met behulp van de <code>&lt;blueskyfeed&gt;</code> tag",
+    "blueskyfeed-error-missing-handle-password": "Fout: Gebruikersnaam of app-wachtwoord ontbreekt.",
+    "blueskyfeed-error-did-resolve": "Fout: Kon de DID niet oplossen voor gebruikersnaam $1.",
+    "blueskyfeed-error-api-key": "Fout: Kon de API-sleutel niet genereren voor gebruikersnaam $1.",
+    "blueskyfeed-error-fetch-feed": "Fout: Kon de feed niet ophalen voor gebruikersnaam $1.",
+    "blueskyfeed-error-fetch-data": "Fout bij het ophalen van de feedgegevens",
+    "blueskyfeed-error-invalid-feed": "Fout: Ongeldige feedgegevens",
+    "blueskyfeed-label-posted-on": "Geplaatst op:",
+    "blueskyfeed-error-no-text": "Geen tekst beschikbaar",
+    "blueskyfeed-label-unknown-user": "Onbekende gebruiker",
+    "blueskyfeed-label-unknown-date": "Onbekende datum",
+    "blueskyfeed-label-avatar-alt": "Avatar",
+    "blueskyfeed-label-thumbnail-alt": "Thumbnail"
+}

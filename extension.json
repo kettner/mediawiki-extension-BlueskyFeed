@@ -1,0 +1,28 @@
+{
+    "name": "BlueskyFeed",
+    "version": "0.5",
+    "author": "Albert Kettner",
+    "url": "https://csdms.colorado.edu",
+    "descriptionmsg": "blueskyfeed-desc",
+    "type": "parserhook",
+    "manifest_version": 1,
+    "requires": {
+        "MediaWiki": ">=1.35"
+    },
+    "license-name": "GPL-2.0-or-later",
+    "AutoloadClasses": {
+        "BlueskyFeed": "includes/BlueskyFeed.php"
+    },
+    "Hooks": {
+        "ParserFirstCallInit": "BlueskyFeed::onParserFirstCallInit"
+    },
+    "MessagesDirs": {
+        "BlueskyFeed": [
+            "i18n"
+        ]
+    },
+    "ExtensionMessagesFiles": {
+        "BlueskyFeedMagic": "languages/BlueskyFeed.i18n.magic.php"
+    }
+}
+

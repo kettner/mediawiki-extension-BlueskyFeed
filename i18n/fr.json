@@ -1,0 +1,18 @@
+{
+    "magicword-blueskyfeed": {
+        "0": "blueskyfeed"
+    },
+    "blueskyfeed-desc": "Inclure un flux bsky.social en utilisant la balise <code>&lt;blueskyfeed&gt;</code>",
+    "blueskyfeed-error-missing-handle-password": "Erreur : Pseudonyme ou mot de passe d'application manquant.",
+    "blueskyfeed-error-did-resolve": "Erreur : Impossible de résoudre le DID pour le pseudonyme $1.",
+    "blueskyfeed-error-api-key": "Erreur : Impossible de générer la clé API pour le pseudonyme $1.",
+    "blueskyfeed-error-fetch-feed": "Erreur : Impossible de récupérer le flux pour le pseudonyme $1.",
+    "blueskyfeed-error-fetch-data": "Erreur lors de la récupération des données du flux",
+    "blueskyfeed-error-invalid-feed": "Erreur : Données de flux invalides",
+    "blueskyfeed-label-posted-on": "Posté le :",
+    "blueskyfeed-error-no-text": "Aucun texte disponible",
+    "blueskyfeed-label-unknown-user": "Utilisateur inconnu",
+    "blueskyfeed-label-unknown-date": "Date inconnue",
+    "blueskyfeed-label-avatar-alt": "Avatar",
+    "blueskyfeed-label-thumbnail-alt": "Miniature"
+}

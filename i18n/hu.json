@@ -1,0 +1,18 @@
+{
+    "magicword-blueskyfeed": {
+        "0": "blueskyfeed"
+    },
+    "blueskyfeed-desc": "Tartalmazzon bsky.social hírfolyamot a <code>&lt;blueskyfeed&gt;</code> címke használatával",
+     "blueskyfeed-error-missing-handle-password": "Hiba: Hiányzó leíró vagy alkalmazásjelszó.",
+     "blueskyfeed-error-did-resolve": "Hiba: Nem sikerült feloldani a DID-t a(z) $1 kezelőhöz.",
+     "blueskyfeed-error-api-key": "Hiba: Nem sikerült API-kulcsot generálni a $1 kezelőhöz.",
+     "blueskyfeed-error-fetch-feed": "Hiba: Nem sikerült lekérni a feedet a(z) $1 kezelőhöz.",
+     "blueskyfeed-error-fetch-data": "Hiba a hírcsatorna adatainak lekérésekor",
+     "blueskyfeed-error-invalid-feed": "Hiba: Érvénytelen feedadatok",
+     "blueskyfeed-label-posted-on": "Közzétéve:",
+     "blueskyfeed-error-no-text": "Nincs elérhető szöveg",
+     "blueskyfeed-label-unknown-user": "Ismeretlen felhasználó",
+     "blueskyfeed-label-unknown-date": "Ismeretlen dátum",
+     "blueskyfeed-label-avatar-alt": "Avatar",
+     "blueskyfeed-label-thumbnail-alt": "Indexkép"
+}

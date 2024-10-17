@@ -1,0 +1,18 @@
+{
+    "magicword-blueskyfeed": {
+        "0": "blueskyfeed"
+    },
+    "blueskyfeed-desc": "Incluir un feed bsky.social usando la etiqueta <code>&lt;blueskyfeed&gt;</code>",
+    "blueskyfeed-error-missing-handle-password": "Error: Falta el nombre de usuario o la contraseña de la aplicación",
+    "blueskyfeed-error-did-resolve": "Error: No se pudo resolver el DID para el nombre de usuario $1",
+    "blueskyfeed-error-api-key": "Error: No se pudo generar la clave API para el nombre de usuario $1",
+    "blueskyfeed-error-fetch-feed": "Error: No se pudo recuperar el feed para el nombre de usuario $1",
+    "blueskyfeed-error-fetch-data": "Error al obtener los datos del feed",
+    "blueskyfeed-error-invalid-feed": "Error: Datos del feed no válidos",
+    "blueskyfeed-label-posted-on": "Publicado el:",
+    "blueskyfeed-error-no-text": "No hay texto disponible",
+    "blueskyfeed-label-unknown-user": "Usuario desconocido",
+    "blueskyfeed-label-unknown-date": "Fecha desconocida",
+    "blueskyfeed-label-avatar-alt": "Avatar",
+    "blueskyfeed-label-thumbnail-alt": "Miniatura"
+}

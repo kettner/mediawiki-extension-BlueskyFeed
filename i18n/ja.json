@@ -1,0 +1,18 @@
+{
+    "magicword-blueskyfeed": {
+        "0": "blueskyfeed"
+    },
+    "blueskyfeed-desc": "<code>&lt;blueskyfeed&gt;</code> タグを使用して bsky.social フィードを含めます",
+    "blueskyfeed-error-missing-handle-password": "エラー: ハンドルまたはアプリ パスワードがありません。",
+    "blueskyfeed-error-did-resolve": "エラー: ハンドル $1 の DID を解決できませんでした。",
+    "blueskyfeed-error-api-key": "エラー: ハンドル $1 の API キーを生成できませんでした。",
+    "blueskyfeed-error-fetch-feed": "エラー: ハンドル $1 のフィードを取得できませんでした。",
+    "blueskyfeed-error-fetch-data": "フィード データの取得中にエラーが発生しました",
+    "blueskyfeed-error-invalid-feed": "エラー: フィード データが無効です",
+    "blueskyfeed-label-posted-on": "投稿日:",
+    "blueskyfeed-error-no-text": "テキストがありません",
+    "blueskyfeed-label-unknown-user": "不明なユーザー",
+    "blueskyfeed-label-unknown-date": "日付不明",
+    "blueskyfeed-label-avatar-alt": "アバター",
+    "blueskyfeed-label-thumbnail-alt": "サムネイル"
+}

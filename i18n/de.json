@@ -1,0 +1,18 @@
+{
+    "magicword-blueskyfeed": {
+        "0": "blueskyfeed"
+    },
+    "blueskyfeed-desc": "Fügen Sie einen bsky.social-Feed mit dem Tag <code>&lt;blueskyfeed&gt;</code> ein",
+    "blueskyfeed-error-missing-handle-password": "Fehler: Fehlender Handle oder App-Passwort.",
+    "blueskyfeed-error-did-resolve": "Fehler: DID für Handle $1 konnte nicht aufgelöst werden.",
+    "blueskyfeed-error-api-key": "Fehler: API-Schlüssel für Handle $1 konnte nicht generiert werden.",
+    "blueskyfeed-error-fetch-feed": "Fehler: Feed für Handle $1 konnte nicht abgerufen werden.",
+    "blueskyfeed-error-fetch-data": "Fehler beim Abrufen der Feed-Daten",
+    "blueskyfeed-error-invalid-feed": "Fehler: Ungültige Feed-Daten",
+    "blueskyfeed-label-posted-on": "Gepostet am:",
+    "blueskyfeed-error-no-text": "Kein Text verfügbar",
+    "blueskyfeed-label-unknown-user": "Unbekannter Benutzer",
+    "blueskyfeed-label-unknown-date": "Unbekanntes Datum",
+    "blueskyfeed-label-avatar-alt": "Avatar",
+    "blueskyfeed-label-thumbnail-alt": "Miniaturansicht"
+}
