@@ -206,8 +206,19 @@ class BlueskyFeed {
             // Clear float for better layout
             $output .= "<div class='blueskyfeed-clear'></div>";
 
-            // Process links in the post text (same logic as before)
+            // Process and replace any links in the post text
+            $facets = isset($item['post']['record']['facets']) ? $item['post']['record']['facets'] : [];
+              foreach ($facets as $facet) {
+                if (isset($facet['features'][0]['$type']) && $facet['features'][0]['$type'] === 'app.bsky.richtext.facet#link') {
+                    $linkUri = $facet['features'][0]['uri'];
+                    $byteStart = $facet['index']['byteStart'];
+                    $byteEnd = $facet['index']['byteEnd'];
 
+                    // Replace the relevant part of the text with a clickable HTML link
+                    $linkedText = substr($text, $byteStart, $byteEnd - $byteStart);
+                    $text = substr_replace($text, "<a href='" . htmlspecialchars($linkUri) . "' target='_blank'>" . htmlspecialchars($linkedText) . "</a>", $byteStart, $byteEnd - $byteStart);
+                 }
+             }
             // Display post text
             $output .= "<p class='blueskyfeed-text'>" . $text . "<br>";
 
